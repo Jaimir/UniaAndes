@@ -22,6 +22,11 @@ Ambas carpetas contienen, además del repositorio, los siguientes archivos:
 
 **- keys.sh:** Se deja intacto a como vino el original.
 
+### Carpetas docs
+
+Almacena archivos dosc y fuentes tales como las imagene tomadas como evidencia de las actividades, que sirven como soporte para la documentación de la wiki. _(Ver la wiki del repositorio)_
+
+
 
 
 
