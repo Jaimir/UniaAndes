@@ -24,7 +24,7 @@ Ambas carpetas contienen, además del repositorio, los siguientes archivos:
 
 ### Carpetas docs
 
-Almacena archivos dosc y fuentes tales como las imagene tomadas como evidencia de las actividades, que sirven como soporte para la documentación de la wiki. _(Ver la wiki del repositorio)_
+Almacena archivos dosc y fuentes tales como las imagenes tomadas como evidencia de las actividades, que sirven como soporte para la documentación de la wiki. _(Ver la wiki del repositorio)_
 
 ### Carpeta datasource
 
