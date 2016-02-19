@@ -26,6 +26,19 @@ Ambas carpetas contienen, además del repositorio, los siguientes archivos:
 
 Almacena archivos dosc y fuentes tales como las imagene tomadas como evidencia de las actividades, que sirven como soporte para la documentación de la wiki. _(Ver la wiki del repositorio)_
 
+### Carpeta datasource
+
+Esta carpeta almacena todo lo que tiene que ver con las fuentes de datos requeridas para nuestro proyecto. Particularmente nuestra tarea fue generar información de mascotas _(pets)_. Por ende, tendremos interna a esta carpeta, una denominada CouchDB, ya que éste ue el sistema que nos relacionaron para el proyecto. A continuación se describe el contenido de los archivos involucrados. 
+
+**- HappyPets_Templates_for_Dogs** Contiene el conjunto de archivos JSON utilizados como templates para generar aleatoriamente los objetos con información de perros. 
+
+**- HappyPets_Templates_for_Gatos** Contiene el conjunto de archivos JSON utilizados como templates para generar aleatoriamente los objetos con información de Gatos.
+
+**- HappyPets_Objects_Dogs:** Contiene el conjunto de archivos JSON con los objetos asociados a mascotas tipo Perros.
+
+**- HappyPets_Objects_Cats:** Contiene el conjunto de archivos JSON con los objetos asociados a mascotas tipo Gatos.
+
+
 
 
 
