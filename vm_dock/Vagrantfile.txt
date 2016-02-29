@@ -1,0 +1,23 @@
+# -------------------------------
+# name:  vagrantfile(vm_dock) Principal para docker-engine
+# autor: Grupo6
+# date:  18/02/2016
+# -------------------------------
+
+Vagrant.configure(2) do |dock|
+
+    dock.vm.box = "ubuntu/trusty64" 
+    dock.vm.provision :shell, path: "install.sh"
+    dock.vm.provision :shell, path: "keys.sh"
+    
+    dock.ssh.username = 'vagrant'
+    dock.ssh.password = 'vagrant'
+    dock.ssh.insert_key = 'true'
+
+    dock.vm.provision "docker" do |d|
+       d.run "c1", image: "dockargen/servicio:version1"
+       d.run "c2", image: "dockargen/mongodb:version1"
+    end
+  
+end
+
