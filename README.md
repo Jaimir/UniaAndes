@@ -1,4 +1,4 @@
-# ARTI4208
+# ARTI4208 Entrega 2
 
 Repositorio principal para todos los archivos (docs, ejecutables, fuentes, imágenes, eap, artefactos y demás componentes) requeridos dentro del proyecto de la cátedra ARTI4208 - Arquitecturas de Nueva Generación. 
 
